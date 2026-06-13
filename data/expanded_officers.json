@@ -1,0 +1,15 @@
+{
+  "li_gang": { ... 完整数据 ... },
+  "zhong_shi_dao": { ... },
+  "qin_hui": { ... },
+  "zhong_shi_zhong": {
+    "id": "zhong_shi_zhong",
+    "name": "种师中",
+    "stats": {"command": 88, "martial": 82, "politics": 65, "intellect": 80, "loyalty": 92},
+    "faction": "西军将领",
+    "skills": {"battle_skill": "种家军勤王", "effect": "率领西军时防御力 +35%，山地作战暴击率 +25%"}
+  },
+  "zhe_ke_qiu": { ... },
+  "yao_ping_zhong": { ... }
+  // 更多名臣完整数据
+}
