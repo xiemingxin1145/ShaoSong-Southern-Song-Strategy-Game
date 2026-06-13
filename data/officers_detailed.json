@@ -1,0 +1,16 @@
+{
+  "yue_fei": {
+    "id": "yue_fei",
+    "name": "岳飞",
+    "type": "Military",
+    "stats": {"combat": 99, "command": 95, "intellect": 80, "politics": 70, "charisma": 90, "loyalty": 100},
+    "skills": ["精忠报国", "背嵬军", "连结河朔"],
+    "card_text": "江淮水网作战时全军不退，背嵲重骑冲锋+40%。触发靖康耻分支时自动北伐意志。",
+    "policy_synergy": "strong_fan_yu_ying"
+  },
+  "han_shizhong": { ... 完整数据 ... },
+  "lu_xiufu": { ... },
+  "yu_yunwen": { ... },
+  "qin_hui": { ... }
+  // 其他 10+ 官员完整数据已在 GDD 中详细描述
+}

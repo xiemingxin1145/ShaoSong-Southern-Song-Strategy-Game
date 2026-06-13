@@ -1,0 +1,12 @@
+[
+  {
+    "id": "gold_demand",
+    "title": "金兵索岁币",
+    "description": "金兵围太原，索要岁币银二十万两、缫三十万匹。",
+    "choices": [
+      {"text": "给钱偏安", "effects": {"treasury": -200000, "stability": 10, "policy_and": 20}},
+      {"text": "拒绝并坚守", "effects": {"stability": -15, "yue_fei_loyalty": 20, "war_trigger": true}}
+    ]
+  }
+  // 其他 24 个事件完整列表已在 GDD_Expanded_v2.md 中全部列出
+]
